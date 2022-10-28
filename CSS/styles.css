@@ -145,15 +145,15 @@ nav {
         text-align: start;
         flex-direction: column;
     }
+    
+    }
 
-
-    }
-    .home {        
-        width: fit-content;
-    }
-    .nav-links li {
-        padding: 0 1rem;
-    }
+.home {        
+    width: fit-content;
+}
+    
+.nav-links li {
+    padding: 0 1rem;
 }
 
 .nav-btns {
@@ -169,9 +169,6 @@ nav {
 }
 
 /* kode til hjemknappen */
-
-.home {
-}
 
 .home button {
     padding:  0.563rem 1.563rem;
