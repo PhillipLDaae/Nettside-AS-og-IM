@@ -391,6 +391,11 @@ nav {
     align-items: flex-start;
 }
 
+.prod-1 {
+    background-image: url(/Bilder/tar_bilder_av_erik.jpeg);
+    background-position: center;
+}
+
 .prod-2 {
     align-items: flex-start;
 }
@@ -554,7 +559,7 @@ nav {
 }
 
 .eduprogram {
-    background-image: url(/Bilder/Amalie\ Skram\ VGS.jpg);
+    background-image: url(/Bilder/IM_linje.jpeg);
 }
 
 .eduprogram-hidden {
