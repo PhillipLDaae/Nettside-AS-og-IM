@@ -147,9 +147,6 @@ nav {
     }
 
 
-
-    .logo {
-        display: nne;
     }
     .home {        
         width: fit-content;
@@ -392,7 +389,7 @@ nav {
 }
 
 .prod-1 {
-    background-image: url(/Bilder/tar_bilder_av_erik.jpeg);
+    background-image: url(/Bilder/tar_bilder_av_erik-2.jpeg);
     background-position: center;
 }
 
@@ -541,7 +538,8 @@ nav {
 }
 
 .welcome {
-    background-image: url(/Bilder/Amalie_Skram_egentatt.jpeg);
+    background-image: url(/Bilder/Amalie_Skram_Hjemside.jpeg);
+    background-position: center;
 }
 
 .welcome-hidden {
@@ -550,7 +548,7 @@ nav {
 }
 
 .about-school {
-    background-image: url(/Bilder/Amalie\ Skram\ VGS.jpg);
+    background-image: url(/Bilder/Amalie_Skram_Bakside.png);
 }
 
 .about-school-hidden {
