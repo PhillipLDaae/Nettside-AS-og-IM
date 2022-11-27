@@ -406,6 +406,15 @@ nav {
     align-items: flex-start
 }
 
+.gym-1 {
+    background-image: url(/Bilder/IMG_0901.PNG);
+    background-position: center;
+}
+
+.gym-2 {
+    align-items: flex-start;
+}
+
 /* standard look på hvordan sidene skal se ut, der skriften er i en boks til venstre eller høyre, derav navnet content right/left */
 
 .content-right {
